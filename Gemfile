@@ -10,6 +10,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'stock_quote'
+gem 'font-awesome-rails'
 gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
